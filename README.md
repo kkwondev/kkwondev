@@ -1,5 +1,5 @@
 #### Github
 - 공용
-  - [Public - kkwondev Github](github.com/kkwondev)
+  - [Public - kkwondev Github](https://github.com/kkwondev)
 - 공부용
-  - [Private - Theo Github](github.com/theo-kkk)
+  - [Private - Theo Github](https://github.com/theo-kkk)
